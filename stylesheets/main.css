@@ -1,7 +1,7 @@
 body {
   background: purple;
 }
-  
+
 .header {
   margin-top: 100px;
   margin-left: 200px;
@@ -9,4 +9,3 @@ body {
   text-transform: uppercase;
   font-weight: bold;
 }
-  
